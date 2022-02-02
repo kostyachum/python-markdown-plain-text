@@ -1,7 +1,7 @@
 # python-markdown-plain-text
 Plain Text Extension for Python Markdown
 
-Renders Markdown document as plain text without need to firts render it into HTML and stripping all the tags after. 
+Renders Markdown a document as plain text without a need to render it into HTML and stripping all the tags after. Thus allows you to save some work and dependencies such a Bleach or BeautifulSoup 
 
 
 
