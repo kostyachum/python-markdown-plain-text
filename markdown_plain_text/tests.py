@@ -1,6 +1,6 @@
 import unittest
 
-from markdown_plain_text.plain_text import convert_to_plain_text
+from markdown_plain_text.extention import convert_to_plain_text
 
 
 class TestCase(unittest.TestCase):

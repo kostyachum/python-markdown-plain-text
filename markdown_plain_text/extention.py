@@ -44,7 +44,7 @@ class PlainTextExtension(Extension):
         md.serializer = to_plain_text    
         md.stripTopLevelTags = False
 
-        # Extention reigster actually run before format is set and it ends up rewriting serializer that we have just changed
+        # Extention reigster actually runs before the format is set and it ends up rewriting serializer that we have just changed
         md.set_output_format = lambda x: x
 
 def convert_to_plain_text(text):
