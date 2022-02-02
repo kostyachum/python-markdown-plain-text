@@ -8,7 +8,7 @@ Started and maintaned by Kostiantyn Chumachenko (https://github.com/kostyachum)
 
 
 
-License: BSD (see LICENSE.md for details).
+License: MIT (see LICENSE.md for details).
 """
 
 
