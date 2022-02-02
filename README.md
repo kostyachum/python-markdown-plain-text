@@ -3,7 +3,7 @@ Plain Text Extension for Python Markdown
 
 # Usage
 Just use it as extenetion
-```
+```python
 from markdown_plain_text.extention import PlainTextExtension
 from markdown import Markdown
 
@@ -15,7 +15,7 @@ plain_text = Markdown(extentions=[PlainTextExtension()]).convert(mardown_text)
 
 
 Or use shorcut method:
-```
+```python
 from markdown_plain_text.extention import convert_to_plain_text
 
 ...
