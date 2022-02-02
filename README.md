@@ -1,6 +1,16 @@
 # python-markdown-plain-text
 Plain Text Extension for Python Markdown
 
+
+# Installation
+
+using pip
+
+```
+pip install -e git+https://github.com/kostyachum/python-markdown-plain-text.git#egg=plain-text-markdown-extention
+```
+
+
 # Usage
 Just use it as extenetion
 ```python
