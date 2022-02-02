@@ -27,7 +27,7 @@ plain_text = Markdown(extentions=[PlainTextExtension()]).convert(mardown_text)
 ```
 
 
-Or use shorcut method:
+Or use a shortcut method:
 ```python
 from markdown_plain_text.extention import convert_to_plain_text
 
